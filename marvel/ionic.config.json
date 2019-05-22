@@ -1,0 +1,7 @@
+{
+  "name": "marvel",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
